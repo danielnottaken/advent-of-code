@@ -8,6 +8,7 @@ const readInterface = readline.createInterface({
 
 let circuit = new Object();
 let circuitAux = new Object();
+
 const bitNumber = 16;
 const numberRegex = /^[0-9]+$/;
 const capitalRegex = /^[A-Z]+$/;
