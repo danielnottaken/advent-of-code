@@ -121,8 +121,7 @@ function solveOperation(operator, values) {
             
             return parseInt(aux, 2).toString();
         default:
-            // console.log(operator);
-            // console.log("poopy was made");
+            console.error("????");
             break;
     }
 }
